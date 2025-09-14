@@ -1,5 +1,7 @@
 {
   "version": 1,
-  "include": ["/images/allay.gif"],
-  "exclude": ["/*"]
+  "include": [
+    "/images/*"
+  ],
+  "exclude": []
 }
